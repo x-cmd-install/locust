@@ -1,0 +1,61 @@
+about:
+  description: Write scalable load tests in plain Python 🚗💨
+  license: MIT
+  homepage: https://locust.cloud
+  head: f391a71
+  archived: false
+  latestVersion: 2.46.4
+  collectedAt: 2026-09-04T05:07:56Z
+timeline:
+  created: 2011-02-17
+  lastCommit: 2026-08-26
+  lastRelease: 2026-08-23
+popularity:
+  star: 28127
+  watcher: 419
+  fork: 3241
+  release: 200
+  contributor: 332
+  pullRequest: 378
+  issue: 1787
+language:
+  Python: 1173032
+  TypeScript: 254461
+  HTML: 3231
+  JavaScript: 2304
+  Dockerfile: 1870
+  Makefile: 1242
+totalLine: 1436140
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 1
+    mergedPR: 10
+    openPR: 2
+    closedIssue: 0
+    openIssue: 1
+    commit: 13
+  last90d:
+    since: 2026-06-06
+    release: 9
+    mergedPR: 51
+    openPR: 2
+    closedIssue: 10
+    openIssue: 2
+    commit: 104
+  last180d:
+    since: 2026-03-08
+    release: 12
+    mergedPR: 71
+    openPR: 2
+    closedIssue: 22
+    openIssue: 3
+    commit: 186
+  last360d:
+    since: 2025-09-09
+    release: 32
+    mergedPR: 166
+    openPR: 2
+    closedIssue: 39
+    openIssue: 3
+    commit: 413
