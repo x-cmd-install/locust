@@ -41,5 +41,17 @@
   "tarball_url": "https://api.github.com/repos/locustio/locust/tarball/2.46.5",
   "zipball_url": "https://api.github.com/repos/locustio/locust/zipball/2.46.5",
   "body": "## What's Changed\r\n* docs: remove stale Python 3.9 test output by @liuyaohui666 in https://github.com/locustio/locust/pull/3500\r\n* fix: fix pythonVersion in ruffConfig and fix extend-exclude setting by @even-even in https://github.com/locustio/locust/pull/3504\r\n* Fix Web UI 500 error handler crashing on plain exceptions by @reachsridhard in https://github.com/locustio/locust/pull/3502\r\n* Fix User.stop() crash when greenlet hasn't started yet by @reachsridhard in https://github.com/locustio/locust/pull/3506\r\n* [FIX] : correct  the user count metric for distributed runs by @RamachandraBhardwaj in https://github.com/locustio/locust/pull/3507\r\n\r\n## New Contributors\r\n* @liuyaohui666 made their first contribution in https://github.com/locustio/locust/pull/3500\r\n\r\n**Full Changelog**: https://github.com/locustio/locust/compare/2.46.4...2.46.5",
+  "reactions": {
+    "url": "https://api.github.com/repos/locustio/locust/releases/383877826/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 1,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
   "mentions_count": 4
 }
