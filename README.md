@@ -7,7 +7,7 @@ Write scalable load tests in plain Python 🚗💨
 - **Latest release**: `2.46.5` (2026-09-07)
 - **Last commit**: 2026-09-07
 - **License**: MIT
-- **Stars**: 28135 · **Forks**: 3243 · **Open issues**: 1787 · **Contributors**: 331
+- **Stars**: 28136 · **Forks**: 3243 · **Open issues**: 1787 · **Contributors**: 331
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/locust> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:48:39Z._
+_Last regenerated: 2026-09-09T18:49:00Z._
