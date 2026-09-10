@@ -4,7 +4,7 @@
 
 Write scalable load tests in plain Python 🚗💨
 
-![locust](https://repo.x-cmd.io/locust.svg)
+![locust](https://repo.x-cmd.io/locust.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,10 @@ x install locust
 
 - **最新版本**: `2.46.5` (2026-09-07)
 - **最近提交**: 2026-09-07
-- **发布时间**: 2026-09-07T06:44:43Z
 
 ## 流行度
 
-- **Star**: 28,138 · **Fork**: 3,244 · **开放 issue**: 1,787 · **贡献者**: 331
+- **Star**: 28,140 · **Fork**: 3,243 · **开放 issue**: 1,787 · **贡献者**: 331
 
 ## 累计统计
 
@@ -71,4 +70,4 @@ locust 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:40:21Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:18:10Z._
