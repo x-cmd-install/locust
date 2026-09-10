@@ -12,6 +12,28 @@ Write scalable load tests in plain Python 🚗💨
 x install locust
 ```
 
+## Code insight
+
+Total: **39,523** lines of code across **329** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 27,201 | 1,318 | 5,936 | 147 |
+| Tsx | 5,142 | 23 | 861 | 92 |
+| ReStructuredText | 4,046 | 0 | 1,862 | 30 |
+| TypeScript | 2,215 | 12 | 347 | 59 |
+| Toml | 223 | 31 | 46 | 1 |
+
+## OpenSSF Scorecard
+
+Overall score: **6.2 / 10**
+
+Lowest-scoring checks:
+
+- **Security-Policy** (3/10) — security policy file detected
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Fuzzing** (0/10) — project is not fuzzed
+
 ## Source
 
 - **Upstream**: <https://github.com/locustio/locust>
@@ -36,30 +58,23 @@ x install locust
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 2 | 11 | 2 | 0 | 1 | 15 |
+| last60d | 2026-07-12 | 6 | 32 | 2 | 3 | 1 | 53 |
 | 90d | 2026-06-12 | 10 | 51 | 2 | 10 | 2 | 98 |
+| last180d | 2026-03-14 | 13 | 72 | 2 | 20 | 3 | 185 |
 | 360d | 2025-09-15 | 31 | 163 | 2 | 38 | 3 | 400 |
+| last720d | 2024-09-20 | 77 | 329 | 2 | 119 | 3 | 1286 |
 
-## Code size
+## Distribution status
 
-Total: **39,523** lines of code across **329** files in the top 5 languages.
+Reported by **19** distros on [repology.org](https://repology.org/project/locust). **1** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 27,201 | 1,318 | 5,936 | 147 |
-| Tsx | 5,142 | 23 | 861 | 92 |
-| ReStructuredText | 4,046 | 0 | 1,862 | 30 |
-| TypeScript | 2,215 | 12 | 347 | 59 |
-| Toml | 223 | 31 | 46 | 1 |
-
-## OpenSSF Scorecard
-
-Overall score: **6.2 / 10**
-
-Lowest-scoring checks:
-
-- **Security-Policy** (3/10) — security policy file detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.24.0` | ⚠️ outdated |
+| Debian 14 | `2.24.0` | ⚠️ outdated |
+| Debian 13 | `2.24.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `2.24.0` | ⚠️ outdated |
+| Homebrew | `2.46.5` | ✅ latest |
 
 ## Improve this data
 
@@ -70,4 +85,4 @@ Install metadata for locust lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:18:09Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:08:37Z._
