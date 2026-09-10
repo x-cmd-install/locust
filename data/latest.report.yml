@@ -7,7 +7,7 @@ about:
   latestVersion: "2.46.5"
   latestRelease: "2.46.5"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:08:24Z
+  collectedAt: 2026-09-10T23:45:36Z
 timeline:
   created: 2011-02-17
   lastCommit: 2026-09-07
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-07
   lastPrerelease: 
 popularity:
-  star: 28140
+  star: 28141
   watcher: 419
   fork: 3243
   release: 201
@@ -88,7 +88,7 @@ total:
   commit: 6553
 ---
 path: /home/runner/.x-repo/github.com/locustio/locust
-collectedAt: 2026-09-10T20:08:31Z
+collectedAt: 2026-09-10T23:45:41Z
 loc:
   Python:
     code: 27201
