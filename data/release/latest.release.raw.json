@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/locustio/locust/releases/383877826",
-  "assets_url": "https://api.github.com/repos/locustio/locust/releases/383877826/assets",
-  "upload_url": "https://uploads.github.com/repos/locustio/locust/releases/383877826/assets{?name,label}",
-  "html_url": "https://github.com/locustio/locust/releases/tag/2.46.5",
-  "id": 383877826,
+  "url": "https://api.github.com/repos/locustio/locust/releases/390925525",
+  "assets_url": "https://api.github.com/repos/locustio/locust/releases/390925525/assets",
+  "upload_url": "https://uploads.github.com/repos/locustio/locust/releases/390925525/assets{?name,label}",
+  "html_url": "https://github.com/locustio/locust/releases/tag/2.46.6",
+  "id": 390925525,
   "author": {
     "login": "cyberw",
     "id": 1134328,
@@ -25,33 +25,33 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOABUGS84W4YLC",
-  "tag_name": "2.46.5",
+  "node_id": "RE_kwDOABUGS84XTQzV",
+  "tag_name": "2.46.6",
   "target_commitish": "master",
-  "name": "2.46.5",
+  "name": "2.46.6",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-07T06:43:31Z",
-  "updated_at": "2026-09-07T06:44:43Z",
-  "published_at": "2026-09-07T06:44:43Z",
+  "created_at": "2026-09-17T11:28:03Z",
+  "updated_at": "2026-09-17T17:37:05Z",
+  "published_at": "2026-09-17T17:37:05Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/locustio/locust/tarball/2.46.5",
-  "zipball_url": "https://api.github.com/repos/locustio/locust/zipball/2.46.5",
-  "body": "## What's Changed\r\n* docs: remove stale Python 3.9 test output by @liuyaohui666 in https://github.com/locustio/locust/pull/3500\r\n* fix: fix pythonVersion in ruffConfig and fix extend-exclude setting by @even-even in https://github.com/locustio/locust/pull/3504\r\n* Fix Web UI 500 error handler crashing on plain exceptions by @reachsridhard in https://github.com/locustio/locust/pull/3502\r\n* Fix User.stop() crash when greenlet hasn't started yet by @reachsridhard in https://github.com/locustio/locust/pull/3506\r\n* [FIX] : correct  the user count metric for distributed runs by @RamachandraBhardwaj in https://github.com/locustio/locust/pull/3507\r\n\r\n## New Contributors\r\n* @liuyaohui666 made their first contribution in https://github.com/locustio/locust/pull/3500\r\n\r\n**Full Changelog**: https://github.com/locustio/locust/compare/2.46.4...2.46.5",
+  "tarball_url": "https://api.github.com/repos/locustio/locust/tarball/2.46.6",
+  "zipball_url": "https://api.github.com/repos/locustio/locust/zipball/2.46.6",
+  "body": "## What's Changed\r\n* Add wait_time.poisson() for Poisson-distributed task arrivals by @whr313703 in https://github.com/locustio/locust/pull/3510\r\n* Add rest method to HttpUser by @anandghegde in https://github.com/locustio/locust/pull/3512\r\n* Compute Med. with the same rank as the 50% percentile by @gyanu2507 in https://github.com/locustio/locust/pull/3508\r\n* [DX] Improve error message when Web UI assets are missing by @suraj-self in https://github.com/locustio/locust/pull/3514\r\n* chore: add typos linter by @even-even in https://github.com/locustio/locust/pull/3511\r\n* Don't let a spawning_complete from an unknown worker kill client_listener by @ergdevops in https://github.com/locustio/locust/pull/3516\r\n\r\n## New Contributors\r\n* @whr313703 made their first contribution in https://github.com/locustio/locust/pull/3510\r\n* @anandghegde made their first contribution in https://github.com/locustio/locust/pull/3512\r\n* @gyanu2507 made their first contribution in https://github.com/locustio/locust/pull/3508\r\n* @suraj-self made their first contribution in https://github.com/locustio/locust/pull/3514\r\n* @ergdevops made their first contribution in https://github.com/locustio/locust/pull/3516\r\n\r\n**Full Changelog**: https://github.com/locustio/locust/compare/2.46.5...2.46.6",
   "reactions": {
-    "url": "https://api.github.com/repos/locustio/locust/releases/383877826/reactions",
+    "url": "https://api.github.com/repos/locustio/locust/releases/390925525/reactions",
     "total_count": 1,
-    "+1": 0,
+    "+1": 1,
     "-1": 0,
     "laugh": 0,
-    "hooray": 1,
+    "hooray": 0,
     "confused": 0,
     "heart": 0,
     "rocket": 0,
     "eyes": 0
   },
-  "mentions_count": 4
+  "mentions_count": 6
 }
