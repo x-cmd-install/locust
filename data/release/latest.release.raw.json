@@ -43,8 +43,8 @@
   "body": "## What's Changed\r\n* Add wait_time.poisson() for Poisson-distributed task arrivals by @whr313703 in https://github.com/locustio/locust/pull/3510\r\n* Add rest method to HttpUser by @anandghegde in https://github.com/locustio/locust/pull/3512\r\n* Compute Med. with the same rank as the 50% percentile by @gyanu2507 in https://github.com/locustio/locust/pull/3508\r\n* [DX] Improve error message when Web UI assets are missing by @suraj-self in https://github.com/locustio/locust/pull/3514\r\n* chore: add typos linter by @even-even in https://github.com/locustio/locust/pull/3511\r\n* Don't let a spawning_complete from an unknown worker kill client_listener by @ergdevops in https://github.com/locustio/locust/pull/3516\r\n\r\n## New Contributors\r\n* @whr313703 made their first contribution in https://github.com/locustio/locust/pull/3510\r\n* @anandghegde made their first contribution in https://github.com/locustio/locust/pull/3512\r\n* @gyanu2507 made their first contribution in https://github.com/locustio/locust/pull/3508\r\n* @suraj-self made their first contribution in https://github.com/locustio/locust/pull/3514\r\n* @ergdevops made their first contribution in https://github.com/locustio/locust/pull/3516\r\n\r\n**Full Changelog**: https://github.com/locustio/locust/compare/2.46.5...2.46.6",
   "reactions": {
     "url": "https://api.github.com/repos/locustio/locust/releases/390925525/reactions",
-    "total_count": 1,
-    "+1": 1,
+    "total_count": 2,
+    "+1": 2,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
