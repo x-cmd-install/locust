@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/locustio/locust/releases/390925525",
-  "assets_url": "https://api.github.com/repos/locustio/locust/releases/390925525/assets",
-  "upload_url": "https://uploads.github.com/repos/locustio/locust/releases/390925525/assets{?name,label}",
-  "html_url": "https://github.com/locustio/locust/releases/tag/2.46.6",
-  "id": 390925525,
+  "url": "https://api.github.com/repos/locustio/locust/releases/403190280",
+  "assets_url": "https://api.github.com/repos/locustio/locust/releases/403190280/assets",
+  "upload_url": "https://uploads.github.com/repos/locustio/locust/releases/403190280/assets{?name,label}",
+  "html_url": "https://github.com/locustio/locust/releases/tag/2.46.7",
+  "id": 403190280,
   "author": {
     "login": "cyberw",
     "id": 1134328,
@@ -25,33 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOABUGS84XTQzV",
-  "tag_name": "2.46.6",
+  "node_id": "RE_kwDOABUGS84YCDII",
+  "tag_name": "2.46.7",
   "target_commitish": "master",
-  "name": "2.46.6",
+  "name": "2.46.7",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-17T11:28:03Z",
-  "updated_at": "2026-09-17T17:37:05Z",
-  "published_at": "2026-09-17T17:37:05Z",
+  "created_at": "2026-10-04T10:43:20Z",
+  "updated_at": "2026-10-04T20:14:09Z",
+  "published_at": "2026-10-04T20:14:09Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/locustio/locust/tarball/2.46.6",
-  "zipball_url": "https://api.github.com/repos/locustio/locust/zipball/2.46.6",
-  "body": "## What's Changed\r\n* Add wait_time.poisson() for Poisson-distributed task arrivals by @whr313703 in https://github.com/locustio/locust/pull/3510\r\n* Add rest method to HttpUser by @anandghegde in https://github.com/locustio/locust/pull/3512\r\n* Compute Med. with the same rank as the 50% percentile by @gyanu2507 in https://github.com/locustio/locust/pull/3508\r\n* [DX] Improve error message when Web UI assets are missing by @suraj-self in https://github.com/locustio/locust/pull/3514\r\n* chore: add typos linter by @even-even in https://github.com/locustio/locust/pull/3511\r\n* Don't let a spawning_complete from an unknown worker kill client_listener by @ergdevops in https://github.com/locustio/locust/pull/3516\r\n\r\n## New Contributors\r\n* @whr313703 made their first contribution in https://github.com/locustio/locust/pull/3510\r\n* @anandghegde made their first contribution in https://github.com/locustio/locust/pull/3512\r\n* @gyanu2507 made their first contribution in https://github.com/locustio/locust/pull/3508\r\n* @suraj-self made their first contribution in https://github.com/locustio/locust/pull/3514\r\n* @ergdevops made their first contribution in https://github.com/locustio/locust/pull/3516\r\n\r\n**Full Changelog**: https://github.com/locustio/locust/compare/2.46.5...2.46.6",
-  "reactions": {
-    "url": "https://api.github.com/repos/locustio/locust/releases/390925525/reactions",
-    "total_count": 3,
-    "+1": 2,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 1,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 0
-  },
-  "mentions_count": 6
+  "tarball_url": "https://api.github.com/repos/locustio/locust/tarball/2.46.7",
+  "zipball_url": "https://api.github.com/repos/locustio/locust/zipball/2.46.7",
+  "body": "## What's Changed\r\n* Fix negative --users causing infinite hang in headless mode by @reachsridhard in https://github.com/locustio/locust/pull/3509\r\n* Fix web UI user count not persisting in parsed_options by @saiyaswanth883 in https://github.com/locustio/locust/pull/3517\r\n* chore: add RUF ruff rules by @even-even in https://github.com/locustio/locust/pull/3519\r\n* Decode percent-encoded credentials in host URL and keep IPv6 brackets in base_url by @SulimanAbdulrazzaq in https://github.com/locustio/locust/pull/3520\r\n* Fix FastHttpUser allow_redirects=False on geventhttpclient 2.5+ by @saiyaswanth883 in https://github.com/locustio/locust/pull/3526\r\n* Fix negative user_count validation in /swarm endpoint by @suraj-self in https://github.com/locustio/locust/pull/3523\r\n* Fix constant pacing after wall-clock adjustments by @Shubham-Padkonde in https://github.com/locustio/locust/pull/3524\r\n* Reject a non-positive spawn_rate in new_dispatch() by @Lesereingrape in https://github.com/locustio/locust/pull/3528\r\n* Reject a non-positive rate in constant_throughput() by @Lesereingrape in https://github.com/locustio/locust/pull/3534\r\n* Fix format_duration() truncating each timestamp before subtracting by @Lesereingrape in https://github.com/locustio/locust/pull/3536\r\n* Add request_name and rename_request to FastHttpSession by @SulimanAbdulrazzaq in https://github.com/locustio/locust/pull/3532\r\n* chore: up min requests version to 2.33.1 and delete if-else requests by @even-even in https://github.com/locustio/locust/pull/3521\r\n* Reject a negative spawn_rate in /swarm instead of reporting a successful start by @Lesereingrape in https://github.com/locustio/locust/pull/3538\r\n* Do not modify the headers dict the caller passed in by @Lesereingrape in https://github.com/locustio/locust/pull/3530\r\n\r\n## New Contributors\r\n* @saiyaswanth883 made their first contribution in https://github.com/locustio/locust/pull/3517\r\n* @SulimanAbdulrazzaq made their first contribution in https://github.com/locustio/locust/pull/3520\r\n* @Shubham-Padkonde made their first contribution in https://github.com/locustio/locust/pull/3524\r\n* @Lesereingrape made their first contribution in https://github.com/locustio/locust/pull/3528\r\n\r\n**Full Changelog**: https://github.com/locustio/locust/compare/2.46.6...2.46.7",
+  "mentions_count": 7
 }
