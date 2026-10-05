@@ -14,11 +14,11 @@ x install locust
 
 ## Code insight
 
-Total: **39,860** lines of code across **331** files in the top 5 languages.
+Total: **39,894** lines of code across **331** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 27,525 | 1,336 | 6,020 | 148 |
+| Python | 27,559 | 1,336 | 6,027 | 148 |
 | Tsx | 5,142 | 23 | 861 | 92 |
 | ReStructuredText | 4,048 | 0 | 1,863 | 30 |
 | TypeScript | 2,215 | 12 | 347 | 59 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `2.46.6` (2026-09-17)
-- **Last commit**: 2026-10-03
+- **Latest**: `2.46.7` (2026-10-04)
+- **Last commit**: 2026-10-04
 
 ## Popularity
 
-- **Stars**: 28,196 · **Forks**: 3,254 · **Open issues**: 1,798 · **Contributors**: 340
+- **Stars**: 28,200 · **Forks**: 3,254 · **Open issues**: 1,798 · **Contributors**: 340
 
 ## Totals (cumulative)
 
-- **Releases**: 202 · **Merged PRs**: 1244 · **Open PRs**: 3 · **Closed issues**: 1793 · **Open issues**: 5 · **Commits**: 6587
+- **Releases**: 203 · **Merged PRs**: 1246 · **Open PRs**: 2 · **Closed issues**: 1796 · **Open issues**: 2 · **Commits**: 6592
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 2 | 19 | 3 | 8 | 2 | 19 |
-| last60d | 2026-08-05 | 3 | 30 | 3 | 9 | 2 | 35 |
-| 90d | 2026-07-06 | 8 | 56 | 3 | 12 | 3 | 75 |
-| last180d | 2026-04-07 | 13 | 84 | 3 | 21 | 5 | 183 |
-| 360d | 2025-10-09 | 26 | 173 | 3 | 44 | 5 | 386 |
-| last720d | 2024-10-14 | 76 | 330 | 3 | 120 | 5 | 1249 |
+| 30d | 2026-09-05 | 3 | 21 | 2 | 10 | 0 | 22 |
+| last60d | 2026-08-06 | 4 | 31 | 2 | 11 | 0 | 38 |
+| 90d | 2026-07-07 | 9 | 58 | 2 | 15 | 0 | 78 |
+| last180d | 2026-04-08 | 14 | 86 | 2 | 24 | 2 | 186 |
+| 360d | 2025-10-10 | 27 | 173 | 2 | 47 | 2 | 389 |
+| last720d | 2024-10-15 | 77 | 330 | 2 | 123 | 2 | 1254 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for locust lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T05:47:02Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T05:35:59Z._
