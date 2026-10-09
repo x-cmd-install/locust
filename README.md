@@ -14,15 +14,15 @@ x install locust
 
 ## Code insight
 
-Total: **39,894** lines of code across **331** files in the top 5 languages.
+Total: **39,884** lines of code across **331** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 27,559 | 1,336 | 6,027 | 148 |
+| Python | 27,550 | 1,334 | 6,025 | 148 |
 | Tsx | 5,142 | 23 | 861 | 92 |
 | ReStructuredText | 4,048 | 0 | 1,863 | 30 |
 | TypeScript | 2,215 | 12 | 347 | 59 |
-| Toml | 234 | 31 | 47 | 2 |
+| Toml | 233 | 31 | 47 | 2 |
 
 ## OpenSSF Scorecard
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.46.7` (2026-10-04)
-- **Last commit**: 2026-10-04
+- **Last commit**: 2026-10-08
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 203 · **Merged PRs**: 1246 · **Open PRs**: 3 · **Closed issues**: 1796 · **Open issues**: 1 · **Commits**: 6592
+- **Releases**: 203 · **Merged PRs**: 1247 · **Open PRs**: 2 · **Closed issues**: 1796 · **Open issues**: 1 · **Commits**: 6594
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 2 | 20 | 3 | 10 | 0 | 22 |
-| last60d | 2026-08-09 | 4 | 31 | 3 | 11 | 0 | 38 |
-| 90d | 2026-07-10 | 8 | 53 | 3 | 14 | 0 | 78 |
-| last180d | 2026-04-11 | 14 | 86 | 3 | 24 | 1 | 186 |
-| 360d | 2025-10-13 | 26 | 171 | 3 | 47 | 1 | 389 |
-| last720d | 2024-10-18 | 76 | 327 | 3 | 122 | 1 | 1238 |
+| 30d | 2026-09-09 | 2 | 21 | 2 | 10 | 0 | 22 |
+| last60d | 2026-08-10 | 4 | 32 | 2 | 11 | 0 | 38 |
+| 90d | 2026-07-11 | 8 | 53 | 2 | 14 | 0 | 78 |
+| last180d | 2026-04-12 | 14 | 87 | 2 | 24 | 1 | 186 |
+| 360d | 2025-10-14 | 26 | 172 | 2 | 45 | 1 | 389 |
+| last720d | 2024-10-19 | 76 | 328 | 2 | 122 | 1 | 1237 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for locust lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:01:03Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:07:19Z._
