@@ -26,7 +26,7 @@ Total: **40,128** lines of code across **333** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.5 / 10**
+Overall score: **6.3 / 10**
 
 Lowest-scoring checks:
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 28,203 · **Forks**: 3,256 · **Open issues**: 1,797 · **Contributors**: 340
+- **Stars**: 28,200 · **Forks**: 3,256 · **Open issues**: 1,799 · **Contributors**: 340
 
 ## Totals (cumulative)
 
-- **Releases**: 203 · **Merged PRs**: 1253 · **Open PRs**: 6 · **Closed issues**: 1796 · **Open issues**: 1 · **Commits**: 6617
+- **Releases**: 203 · **Merged PRs**: 1253 · **Open PRs**: 9 · **Closed issues**: 1796 · **Open issues**: 3 · **Commits**: 6617
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 2 | 25 | 6 | 10 | 0 | 27 |
-| last60d | 2026-08-13 | 4 | 38 | 6 | 11 | 0 | 51 |
-| 90d | 2026-07-14 | 8 | 58 | 6 | 14 | 0 | 84 |
-| last180d | 2026-04-15 | 14 | 93 | 6 | 23 | 1 | 199 |
-| 360d | 2025-10-17 | 26 | 176 | 6 | 45 | 1 | 382 |
-| last720d | 2024-10-22 | 76 | 328 | 6 | 122 | 1 | 1251 |
+| 30d | 2026-09-13 | 2 | 23 | 9 | 10 | 2 | 27 |
+| last60d | 2026-08-14 | 4 | 38 | 9 | 11 | 2 | 51 |
+| 90d | 2026-07-15 | 8 | 58 | 9 | 14 | 2 | 84 |
+| last180d | 2026-04-16 | 14 | 93 | 9 | 23 | 3 | 199 |
+| 360d | 2025-10-18 | 26 | 175 | 9 | 45 | 3 | 382 |
+| last720d | 2024-10-23 | 76 | 328 | 9 | 122 | 3 | 1237 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for locust lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T05:50:55Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T06:51:57Z._
