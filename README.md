@@ -14,11 +14,11 @@ x install locust
 
 ## Code insight
 
-Total: **40,305** lines of code across **333** files in the top 5 languages.
+Total: **40,384** lines of code across **333** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 27,971 | 1,348 | 6,121 | 150 |
+| Python | 28,050 | 1,351 | 6,143 | 150 |
 | Tsx | 5,142 | 23 | 861 | 92 |
 | ReStructuredText | 4,048 | 0 | 1,863 | 30 |
 | TypeScript | 2,215 | 12 | 347 | 59 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.46.7` (2026-10-04)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-17
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 203 · **Merged PRs**: 1260 · **Open PRs**: 7 · **Closed issues**: 1797 · **Open issues**: 3 · **Commits**: 6631
+- **Releases**: 203 · **Merged PRs**: 1264 · **Open PRs**: 3 · **Closed issues**: 1797 · **Open issues**: 3 · **Commits**: 6641
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 2 | 27 | 7 | 10 | 2 | 35 |
-| last60d | 2026-08-18 | 4 | 45 | 7 | 13 | 2 | 59 |
-| 90d | 2026-07-19 | 8 | 62 | 7 | 14 | 2 | 92 |
-| last180d | 2026-04-20 | 14 | 100 | 7 | 24 | 3 | 207 |
-| 360d | 2025-10-22 | 25 | 180 | 7 | 46 | 3 | 390 |
-| last720d | 2024-10-27 | 76 | 334 | 7 | 122 | 3 | 1243 |
+| 30d | 2026-09-18 | 1 | 31 | 3 | 10 | 2 | 38 |
+| last60d | 2026-08-19 | 4 | 47 | 3 | 13 | 2 | 53 |
+| 90d | 2026-07-20 | 7 | 63 | 3 | 14 | 2 | 74 |
+| last180d | 2026-04-21 | 14 | 104 | 3 | 24 | 3 | 208 |
+| 360d | 2025-10-23 | 25 | 184 | 3 | 46 | 3 | 386 |
+| last720d | 2024-10-28 | 76 | 338 | 3 | 121 | 3 | 1252 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for locust lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:18:03Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:23:25Z._
