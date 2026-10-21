@@ -26,7 +26,7 @@ Total: **40,407** lines of code across **334** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.3 / 10**
+Overall score: **6.6 / 10**
 
 Lowest-scoring checks:
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 28,224 · **Forks**: 3,259 · **Open issues**: 1,800 · **Contributors**: 342
+- **Stars**: 28,227 · **Forks**: 3,260 · **Open issues**: 1,800 · **Contributors**: 342
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 1 | 31 | 3 | 11 | 0 | 40 |
-| last60d | 2026-08-21 | 4 | 44 | 3 | 15 | 0 | 55 |
-| 90d | 2026-07-22 | 6 | 64 | 3 | 15 | 0 | 76 |
-| last180d | 2026-04-23 | 14 | 104 | 3 | 26 | 1 | 210 |
-| 360d | 2025-10-25 | 25 | 186 | 3 | 48 | 1 | 388 |
-| last720d | 2024-10-30 | 75 | 339 | 3 | 122 | 1 | 1253 |
+| 30d | 2026-09-21 | 1 | 31 | 3 | 11 | 0 | 40 |
+| last60d | 2026-08-22 | 4 | 44 | 3 | 15 | 0 | 55 |
+| 90d | 2026-07-23 | 6 | 63 | 3 | 15 | 0 | 76 |
+| last180d | 2026-04-24 | 14 | 104 | 3 | 26 | 1 | 210 |
+| 360d | 2025-10-26 | 25 | 186 | 3 | 48 | 1 | 388 |
+| last720d | 2024-10-31 | 75 | 338 | 3 | 122 | 1 | 1252 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for locust lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:43:57Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:40:47Z._
