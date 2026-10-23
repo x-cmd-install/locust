@@ -47,22 +47,34 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 28,232 · **Forks**: 3,261 · **Open issues**: 1,801 · **Contributors**: 344
+- **Stars**: 28,235 · **Forks**: 3,262 · **Open issues**: 1,801 · **Contributors**: 344
 
 ## Totals (cumulative)
 
-- **Releases**: 204 · **Merged PRs**: 1268 · **Open PRs**: 5 · **Closed issues**: 1799 · **Open issues**: 2 · **Commits**: 6649
+- **Releases**: 204 · **Merged PRs**: 1268 · **Open PRs**: 7 · **Closed issues**: 1799 · **Open issues**: 2 · **Commits**: 6649
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 33 | 5 | 11 | 1 | 42 |
-| last60d | 2026-08-23 | 5 | 45 | 5 | 15 | 1 | 57 |
-| 90d | 2026-07-24 | 7 | 60 | 5 | 15 | 1 | 78 |
-| last180d | 2026-04-25 | 15 | 105 | 5 | 26 | 2 | 212 |
-| 360d | 2025-10-27 | 26 | 187 | 5 | 48 | 2 | 390 |
-| last720d | 2024-11-01 | 76 | 339 | 5 | 121 | 2 | 1254 |
+| 30d | 2026-09-23 | 2 | 32 | 7 | 11 | 1 | 42 |
+| last60d | 2026-08-24 | 4 | 45 | 7 | 15 | 1 | 57 |
+| 90d | 2026-07-25 | 6 | 60 | 7 | 15 | 1 | 78 |
+| last180d | 2026-04-26 | 15 | 105 | 7 | 26 | 2 | 212 |
+| 360d | 2025-10-28 | 25 | 187 | 7 | 48 | 2 | 390 |
+| last720d | 2024-11-02 | 76 | 339 | 7 | 121 | 2 | 1252 |
+
+## Distribution status
+
+Reported by **18** distros on [repology.org](https://repology.org/project/locust). **1** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.46.7` | ⚠️ outdated |
+| Debian 14 | `2.46.6` | ⚠️ outdated |
+| Debian 13 | `2.24.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `2.24.0` | ⚠️ outdated |
+| Homebrew | `2.47.0` | ✅ latest |
 
 ## Improve this data
 
@@ -73,4 +85,4 @@ Install metadata for locust lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:36:15Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:51:18Z._
