@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 2 | 32 | 7 | 11 | 1 | 42 |
-| last60d | 2026-08-24 | 4 | 45 | 7 | 15 | 1 | 57 |
-| 90d | 2026-07-25 | 6 | 60 | 7 | 15 | 1 | 78 |
-| last180d | 2026-04-26 | 15 | 105 | 7 | 26 | 2 | 212 |
-| 360d | 2025-10-28 | 25 | 187 | 7 | 48 | 2 | 390 |
-| last720d | 2024-11-02 | 76 | 339 | 7 | 121 | 2 | 1252 |
+| 30d | 2026-09-24 | 2 | 32 | 7 | 11 | 1 | 42 |
+| last60d | 2026-08-25 | 4 | 45 | 7 | 15 | 1 | 57 |
+| 90d | 2026-07-26 | 6 | 59 | 7 | 15 | 1 | 78 |
+| last180d | 2026-04-27 | 15 | 105 | 7 | 26 | 2 | 212 |
+| 360d | 2025-10-29 | 25 | 187 | 7 | 48 | 2 | 390 |
+| last720d | 2024-11-03 | 76 | 339 | 7 | 121 | 2 | 1252 |
 
 ## Distribution status
 
@@ -85,4 +85,4 @@ Install metadata for locust lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:51:18Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:39:37Z._
