@@ -22,7 +22,7 @@ Total: **40,440** lines of code across **334** files in the top 5 languages.
 | Tsx | 5,142 | 23 | 861 | 92 |
 | ReStructuredText | 4,048 | 0 | 1,863 | 30 |
 | TypeScript | 2,215 | 12 | 347 | 59 |
-| Toml | 233 | 31 | 47 | 2 |
+| Toml | 233 | 31 | 46 | 2 |
 
 ## OpenSSF Scorecard
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.47.0` (2026-10-21)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-10-26
 
 ## Popularity
 
-- **Stars**: 28,240 · **Forks**: 3,261 · **Open issues**: 1,801 · **Contributors**: 344
+- **Stars**: 28,243 · **Forks**: 3,263 · **Open issues**: 1,801 · **Contributors**: 344
 
 ## Totals (cumulative)
 
-- **Releases**: 204 · **Merged PRs**: 1269 · **Open PRs**: 6 · **Closed issues**: 1799 · **Open issues**: 2 · **Commits**: 6651
+- **Releases**: 204 · **Merged PRs**: 1270 · **Open PRs**: 8 · **Closed issues**: 1799 · **Open issues**: 2 · **Commits**: 6654
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 2 | 33 | 6 | 11 | 1 | 41 |
-| last60d | 2026-08-27 | 4 | 45 | 6 | 14 | 1 | 57 |
-| 90d | 2026-07-28 | 6 | 59 | 6 | 15 | 1 | 71 |
-| last180d | 2026-04-29 | 15 | 106 | 6 | 26 | 2 | 202 |
-| 360d | 2025-10-31 | 25 | 186 | 6 | 48 | 2 | 385 |
-| last720d | 2024-11-05 | 76 | 339 | 6 | 121 | 2 | 1236 |
+| 30d | 2026-09-27 | 2 | 34 | 8 | 11 | 1 | 41 |
+| last60d | 2026-08-28 | 4 | 46 | 8 | 14 | 1 | 57 |
+| 90d | 2026-07-29 | 6 | 60 | 8 | 15 | 1 | 71 |
+| last180d | 2026-04-30 | 15 | 106 | 8 | 25 | 2 | 202 |
+| 360d | 2025-11-01 | 25 | 186 | 8 | 48 | 2 | 385 |
+| last720d | 2024-11-06 | 76 | 339 | 8 | 120 | 2 | 1235 |
 
 ## Distribution status
 
@@ -85,4 +85,4 @@ Install metadata for locust lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:40:01Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T04:56:53Z._
