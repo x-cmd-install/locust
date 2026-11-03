@@ -1,3 +1,102 @@
+- repo: debian_12
+  subrepo: bookworm/main
+  srcname: locust
+  binnames:
+    - python3-locust
+  visiblename: locust
+  version: 2.12.1
+  origversion: 2.12.1-1
+  status: outdated
+  maintainers:
+    - morph@debian.org
+    - team+python@tracker.debian.org
+  categories:
+    - misc
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: locust
+  binnames:
+    - python3-locust
+  visiblename: locust
+  version: 2.24.0
+  origversion: 2.24.0-1
+  status: outdated
+  maintainers:
+    - morph@debian.org
+  categories:
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: locust
+  binnames:
+    - python3-locust
+  visiblename: locust
+  version: 2.46.6
+  origversion: 2.46.6-1
+  status: outdated
+  maintainers:
+    - morph@debian.org
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: locust
+  binnames:
+    - python3-locust
+  visiblename: locust
+  version: 2.46.7
+  origversion: 2.46.7-2
+  status: outdated
+  maintainers:
+    - morph@debian.org
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: locust
+  binnames:
+    - python3-locust
+  visiblename: locust
+  version: 2.46.7
+  origversion: 2.46.7-3
+  status: outdated
+  maintainers:
+    - morph@debian.org
+  categories:
+    - misc
+- repo: deepin_25
+  subrepo: community
+  srcname: locust
+  binnames:
+    - python3-locust
+  visiblename: locust
+  version: 2.24.0
+  origversion: 2.24.0-1
+  status: outdated
+  maintainers:
+    - morph@debian.org
+  categories:
+    - python
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: locust
+  binnames:
+    - python3-locust
+  visiblename: locust
+  version: 2.46.7
+  origversion: 2.46.7-3
+  status: outdated
+  maintainers:
+    - morph@debian.org
+  categories:
+    - misc
+- repo: homebrew
+  srcname: locust
+  visiblename: locust
+  version: 2.47.0
+  origversion: null
+  status: newest
+  summary: Scalable user load testing tool written in Python
 - repo: kali_rolling
   subrepo: main
   srcname: locust
@@ -12,7 +111,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: locust
   binnames:
     - python3-locust
@@ -25,7 +124,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: locust
   binnames:
     - python3-locust
@@ -115,105 +214,6 @@
     - team+python@tracker.debian.org
   categories:
     - universe/misc
-- repo: debian_12
-  subrepo: bookworm/main
-  srcname: locust
-  binnames:
-    - python3-locust
-  visiblename: locust
-  version: 2.12.1
-  origversion: 2.12.1-1
-  status: outdated
-  maintainers:
-    - morph@debian.org
-    - team+python@tracker.debian.org
-  categories:
-    - misc
-- repo: debian_13
-  subrepo: trixie/main
-  srcname: locust
-  binnames:
-    - python3-locust
-  visiblename: locust
-  version: 2.24.0
-  origversion: 2.24.0-1
-  status: outdated
-  maintainers:
-    - morph@debian.org
-  categories:
-    - misc
-- repo: debian_14
-  subrepo: forky/main
-  srcname: locust
-  binnames:
-    - python3-locust
-  visiblename: locust
-  version: 2.46.6
-  origversion: 2.46.6-1
-  status: outdated
-  maintainers:
-    - morph@debian.org
-  categories:
-    - misc
-- repo: debian_unstable
-  subrepo: sid/main
-  srcname: locust
-  binnames:
-    - python3-locust
-  visiblename: locust
-  version: 2.46.7
-  origversion: 2.46.7-1
-  status: outdated
-  maintainers:
-    - morph@debian.org
-  categories:
-    - misc
-- repo: deepin_25
-  subrepo: community
-  srcname: locust
-  binnames:
-    - python3-locust
-  visiblename: locust
-  version: 2.24.0
-  origversion: 2.24.0-1
-  status: outdated
-  maintainers:
-    - morph@debian.org
-  categories:
-    - python
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: locust
-  binnames:
-    - python3-locust
-  visiblename: locust
-  version: 2.46.7
-  origversion: 2.46.7-1
-  status: outdated
-  maintainers:
-    - morph@debian.org
-  categories:
-    - misc
-- repo: homebrew
-  srcname: locust
-  visiblename: locust
-  version: 2.47.0
-  origversion: null
-  status: newest
-  summary: Scalable user load testing tool written in Python
-- repo: ubuntu_24_04
-  subrepo: noble-updates/universe
-  srcname: locust
-  binnames:
-    - python3-locust
-  visiblename: locust
-  version: 2.24.0
-  origversion: 2.24.0-1ubuntu0.1
-  status: outdated
-  maintainers:
-    - ubuntu-devel-discuss@lists.ubuntu.com
-  categories:
-    - universe/misc
 - repo: ubuntu_24_04
   subrepo: noble/universe
   srcname: locust
@@ -225,5 +225,18 @@
   status: outdated
   maintainers:
     - morph@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_24_04
+  subrepo: noble-updates/universe
+  srcname: locust
+  binnames:
+    - python3-locust
+  visiblename: locust
+  version: 2.24.0
+  origversion: 2.24.0-1ubuntu0.1
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
   categories:
     - universe/misc
