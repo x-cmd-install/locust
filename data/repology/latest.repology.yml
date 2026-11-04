@@ -45,20 +45,7 @@
     - python3-locust
   visiblename: locust
   version: 2.46.7
-  origversion: 2.46.7-2
-  status: outdated
-  maintainers:
-    - morph@debian.org
-  categories:
-    - misc
-- repo: debian_unstable
-  subrepo: sid/main
-  srcname: locust
-  binnames:
-    - python3-locust
-  visiblename: locust
-  version: 2.46.7
-  origversion: 2.46.7-3
+  origversion: 2.46.7-4
   status: outdated
   maintainers:
     - morph@debian.org
@@ -84,7 +71,7 @@
     - python3-locust
   visiblename: locust
   version: 2.46.7
-  origversion: 2.46.7-3
+  origversion: 2.46.7-4
   status: outdated
   maintainers:
     - morph@debian.org
@@ -215,19 +202,6 @@
   categories:
     - universe/misc
 - repo: ubuntu_24_04
-  subrepo: noble/universe
-  srcname: locust
-  binnames:
-    - python3-locust
-  visiblename: locust
-  version: 2.24.0
-  origversion: 2.24.0-1
-  status: outdated
-  maintainers:
-    - morph@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_24_04
   subrepo: noble-updates/universe
   srcname: locust
   binnames:
@@ -238,5 +212,18 @@
   status: outdated
   maintainers:
     - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - universe/misc
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: locust
+  binnames:
+    - python3-locust
+  visiblename: locust
+  version: 2.24.0
+  origversion: 2.24.0-1
+  status: outdated
+  maintainers:
+    - morph@debian.org
   categories:
     - universe/misc
