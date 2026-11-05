@@ -45,7 +45,7 @@
     - python3-locust
   visiblename: locust
   version: 2.46.7
-  origversion: 2.46.7-4
+  origversion: 2.46.7-5
   status: outdated
   maintainers:
     - morph@debian.org
@@ -71,7 +71,7 @@
     - python3-locust
   visiblename: locust
   version: 2.46.7
-  origversion: 2.46.7-4
+  origversion: 2.46.7-5
   status: outdated
   maintainers:
     - morph@debian.org
