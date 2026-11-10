@@ -1,3 +1,82 @@
+- repo: debian_12
+  subrepo: bookworm/main
+  srcname: locust
+  binnames:
+    - python3-locust
+  visiblename: locust
+  version: 2.12.1
+  origversion: 2.12.1-1
+  status: outdated
+  maintainers:
+    - morph@debian.org
+    - team+python@tracker.debian.org
+  categories:
+    - misc
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: locust
+  binnames:
+    - python3-locust
+  visiblename: locust
+  version: 2.24.0
+  origversion: 2.24.0-1
+  status: outdated
+  maintainers:
+    - morph@debian.org
+  categories:
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: locust
+  binnames:
+    - python3-locust
+  visiblename: locust
+  version: 2.46.7
+  origversion: 2.46.7-6
+  status: outdated
+  maintainers:
+    - morph@debian.org
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: locust
+  binnames:
+    - python3-locust
+  visiblename: locust
+  version: 2.46.7
+  origversion: 2.46.7-6
+  status: outdated
+  maintainers:
+    - morph@debian.org
+  categories:
+    - misc
+- repo: deepin_25
+  subrepo: community
+  srcname: locust
+  binnames:
+    - python3-locust
+  visiblename: locust
+  version: 2.24.0
+  origversion: 2.24.0-1
+  status: outdated
+  maintainers:
+    - morph@debian.org
+  categories:
+    - python
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: locust
+  binnames:
+    - python3-locust
+  visiblename: locust
+  version: 2.46.7
+  origversion: 2.46.7-6
+  status: outdated
+  maintainers:
+    - morph@debian.org
+  categories:
+    - misc
 - repo: homebrew
   srcname: locust
   visiblename: locust
@@ -57,85 +136,6 @@
     - morph@debian.org
   categories:
     - python
-- repo: debian_13
-  subrepo: trixie/main
-  srcname: locust
-  binnames:
-    - python3-locust
-  visiblename: locust
-  version: 2.24.0
-  origversion: 2.24.0-1
-  status: outdated
-  maintainers:
-    - morph@debian.org
-  categories:
-    - misc
-- repo: debian_12
-  subrepo: bookworm/main
-  srcname: locust
-  binnames:
-    - python3-locust
-  visiblename: locust
-  version: 2.12.1
-  origversion: 2.12.1-1
-  status: outdated
-  maintainers:
-    - morph@debian.org
-    - team+python@tracker.debian.org
-  categories:
-    - misc
-- repo: debian_14
-  subrepo: forky/main
-  srcname: locust
-  binnames:
-    - python3-locust
-  visiblename: locust
-  version: 2.46.6
-  origversion: 2.46.6-1
-  status: outdated
-  maintainers:
-    - morph@debian.org
-  categories:
-    - misc
-- repo: debian_unstable
-  subrepo: sid/main
-  srcname: locust
-  binnames:
-    - python3-locust
-  visiblename: locust
-  version: 2.46.7
-  origversion: 2.46.7-6
-  status: outdated
-  maintainers:
-    - morph@debian.org
-  categories:
-    - misc
-- repo: deepin_25
-  subrepo: community
-  srcname: locust
-  binnames:
-    - python3-locust
-  visiblename: locust
-  version: 2.24.0
-  origversion: 2.24.0-1
-  status: outdated
-  maintainers:
-    - morph@debian.org
-  categories:
-    - python
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: locust
-  binnames:
-    - python3-locust
-  visiblename: locust
-  version: 2.46.7
-  origversion: 2.46.7-6
-  status: outdated
-  maintainers:
-    - morph@debian.org
-  categories:
-    - misc
 - repo: raspbian_oldstable
   subrepo: main
   srcname: locust
@@ -169,8 +169,8 @@
   binnames:
     - python3-locust
   visiblename: locust
-  version: 2.46.6
-  origversion: 2.46.6-1
+  version: 2.46.7
+  origversion: 2.46.7-6
   status: outdated
   maintainers:
     - morph@debian.org
@@ -225,5 +225,18 @@
   status: outdated
   maintainers:
     - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - universe/misc
+- repo: ubuntu_27_04_proposed
+  subrepo: tenacious-proposed/universe
+  srcname: locust
+  binnames:
+    - python3-locust
+  visiblename: locust
+  version: 2.46.7
+  origversion: 2.46.7-6
+  status: outdated
+  maintainers:
+    - morph@debian.org
   categories:
     - universe/misc
