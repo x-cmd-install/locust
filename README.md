@@ -47,30 +47,30 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 28,273 · **Forks**: 3,273 · **Open issues**: 1,802 · **Contributors**: 352
+- **Stars**: 28,277 · **Forks**: 3,274 · **Open issues**: 1,802 · **Contributors**: 352
 
 ## Totals (cumulative)
 
-- **Releases**: 204 · **Merged PRs**: 1289 · **Open PRs**: 12 · **Closed issues**: 1800 · **Open issues**: 2 · **Commits**: 6700
+- **Releases**: 204 · **Merged PRs**: 1289 · **Open PRs**: 14 · **Closed issues**: 1800 · **Open issues**: 2 · **Commits**: 6700
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 1 | 29 | 11 | 2 | 2 | 33 |
-| last60d | 2026-09-12 | 3 | 61 | 12 | 14 | 2 | 71 |
-| 90d | 2026-08-13 | 5 | 74 | 12 | 15 | 2 | 94 |
-| last180d | 2026-05-15 | 14 | 120 | 12 | 25 | 2 | 205 |
-| 360d | 2025-11-16 | 23 | 195 | 12 | 46 | 2 | 376 |
-| last720d | 2024-11-21 | 74 | 344 | 12 | 113 | 2 | 1236 |
+| 30d | 2026-10-13 | 1 | 29 | 13 | 2 | 2 | 33 |
+| last60d | 2026-09-13 | 3 | 59 | 14 | 14 | 2 | 71 |
+| 90d | 2026-08-14 | 5 | 74 | 14 | 15 | 2 | 94 |
+| last180d | 2026-05-16 | 14 | 120 | 14 | 25 | 2 | 205 |
+| 360d | 2025-11-17 | 23 | 192 | 14 | 46 | 2 | 376 |
+| last720d | 2024-11-22 | 74 | 344 | 14 | 113 | 2 | 1235 |
 
 ## Distribution status
 
-Reported by **19** distros on [repology.org](https://repology.org/project/locust). **1** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
+Reported by **19** distros on [repology.org](https://repology.org/project/locust). **3** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `2.46.7` | ⚠️ outdated |
+| Debian unstable | `2.47.0` | ✅ latest |
 | Debian 14 | `2.46.7` | ⚠️ outdated |
 | Debian 13 | `2.24.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.24.0` | ⚠️ outdated |
@@ -85,4 +85,4 @@ Install metadata for locust lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:11:46Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T07:13:44Z._
