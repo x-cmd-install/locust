@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 28,299 · **Forks**: 3,275 · **Open issues**: 1,803 · **Contributors**: 352
+- **Stars**: 28,305 · **Forks**: 3,275 · **Open issues**: 1,805 · **Contributors**: 352
 
 ## Totals (cumulative)
 
-- **Releases**: 204 · **Merged PRs**: 1293 · **Open PRs**: 16 · **Closed issues**: 1800 · **Open issues**: 3 · **Commits**: 6710
+- **Releases**: 204 · **Merged PRs**: 1293 · **Open PRs**: 17 · **Closed issues**: 1800 · **Open issues**: 5 · **Commits**: 6710
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 26 | 14 | 0 | 3 | 27 |
-| last60d | 2026-09-20 | 2 | 58 | 16 | 11 | 3 | 72 |
-| 90d | 2026-08-21 | 5 | 71 | 16 | 15 | 3 | 86 |
-| last180d | 2026-05-23 | 14 | 123 | 16 | 25 | 3 | 202 |
-| 360d | 2025-11-24 | 21 | 188 | 16 | 46 | 3 | 370 |
-| last720d | 2024-11-29 | 74 | 344 | 16 | 110 | 3 | 1241 |
+| 30d | 2026-10-21 | 1 | 25 | 12 | 0 | 4 | 27 |
+| last60d | 2026-09-21 | 2 | 58 | 17 | 11 | 5 | 72 |
+| 90d | 2026-08-22 | 5 | 71 | 17 | 15 | 5 | 86 |
+| last180d | 2026-05-24 | 14 | 122 | 17 | 25 | 5 | 202 |
+| 360d | 2025-11-25 | 21 | 187 | 17 | 46 | 5 | 370 |
+| last720d | 2024-11-30 | 74 | 344 | 17 | 110 | 5 | 1237 |
 
 ## Distribution status
 
@@ -85,4 +85,4 @@ Install metadata for locust lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:28:02Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:30:10Z._
