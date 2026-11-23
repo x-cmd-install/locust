@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 28,307 · **Forks**: 3,273 · **Open issues**: 1,806 · **Contributors**: 352
+- **Stars**: 28,307 · **Forks**: 3,274 · **Open issues**: 1,806 · **Contributors**: 352
 
 ## Totals (cumulative)
 
@@ -57,16 +57,16 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 24 | 11 | 0 | 5 | 27 |
-| last60d | 2026-09-23 | 2 | 57 | 17 | 11 | 6 | 72 |
-| 90d | 2026-08-24 | 4 | 70 | 17 | 15 | 6 | 86 |
-| last180d | 2026-05-26 | 14 | 122 | 17 | 25 | 6 | 202 |
-| 360d | 2025-11-27 | 21 | 185 | 17 | 46 | 6 | 370 |
-| last720d | 2024-12-02 | 73 | 343 | 17 | 109 | 6 | 1232 |
+| 30d | 2026-10-24 | 0 | 24 | 11 | 0 | 5 | 17 |
+| last60d | 2026-09-24 | 2 | 57 | 17 | 11 | 6 | 70 |
+| 90d | 2026-08-25 | 4 | 70 | 17 | 15 | 6 | 85 |
+| last180d | 2026-05-27 | 14 | 122 | 17 | 25 | 6 | 192 |
+| 360d | 2025-11-28 | 21 | 180 | 17 | 46 | 6 | 336 |
+| last720d | 2024-12-03 | 73 | 343 | 17 | 109 | 6 | 1230 |
 
 ## Distribution status
 
-Reported by **19** distros on [repology.org](https://repology.org/project/locust). **5** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
+Reported by **19** distros on [repology.org](https://repology.org/project/locust). **6** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -85,4 +85,4 @@ Install metadata for locust lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T06:45:10Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T07:38:00Z._
