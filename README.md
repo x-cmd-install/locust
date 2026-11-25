@@ -14,7 +14,7 @@ x install locust
 
 ## Code insight
 
-Total: **40,848** lines of code across **334** files in the top 5 languages.
+Total: **40,847** lines of code across **334** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -22,7 +22,7 @@ Total: **40,848** lines of code across **334** files in the top 5 languages.
 | Tsx | 5,083 | 23 | 851 | 90 |
 | ReStructuredText | 4,049 | 0 | 1,863 | 30 |
 | TypeScript | 2,215 | 12 | 347 | 59 |
-| Toml | 242 | 32 | 46 | 2 |
+| Toml | 241 | 32 | 46 | 2 |
 
 ## OpenSSF Scorecard
 
@@ -43,38 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.47.0` (2026-10-21)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-24
 
 ## Popularity
 
-- **Stars**: 28,307 · **Forks**: 3,275 · **Open issues**: 1,806 · **Contributors**: 352
+- **Stars**: 28,312 · **Forks**: 3,275 · **Open issues**: 1,806 · **Contributors**: 352
 
 ## Totals (cumulative)
 
-- **Releases**: 204 · **Merged PRs**: 1293 · **Open PRs**: 17 · **Closed issues**: 1800 · **Open issues**: 6 · **Commits**: 6710
+- **Releases**: 204 · **Merged PRs**: 1293 · **Open PRs**: 17 · **Closed issues**: 1800 · **Open issues**: 6 · **Commits**: 6711
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 24 | 11 | 0 | 5 | 17 |
-| last60d | 2026-09-25 | 2 | 57 | 17 | 11 | 6 | 70 |
-| 90d | 2026-08-26 | 4 | 69 | 17 | 14 | 6 | 85 |
-| last180d | 2026-05-28 | 14 | 122 | 17 | 25 | 6 | 192 |
-| 360d | 2025-11-29 | 21 | 178 | 17 | 46 | 6 | 336 |
-| last720d | 2024-12-04 | 73 | 343 | 17 | 108 | 6 | 1230 |
-
-## Distribution status
-
-Reported by **19** distros on [repology.org](https://repology.org/project/locust). **6** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `2.47.0` | ✅ latest |
-| Debian 14 | `2.47.0` | ✅ latest |
-| Debian 13 | `2.24.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `2.24.0` | ⚠️ outdated |
-| Homebrew | `2.47.0` | ✅ latest |
+| 30d | 2026-10-26 | 0 | 22 | 11 | 0 | 5 | 18 |
+| last60d | 2026-09-26 | 2 | 57 | 17 | 11 | 6 | 71 |
+| 90d | 2026-08-27 | 4 | 69 | 17 | 14 | 6 | 86 |
+| last180d | 2026-05-29 | 14 | 122 | 17 | 25 | 6 | 193 |
+| 360d | 2025-11-30 | 20 | 178 | 17 | 46 | 6 | 337 |
+| last720d | 2024-12-05 | 73 | 343 | 17 | 108 | 6 | 1231 |
 
 ## Improve this data
 
@@ -85,4 +73,4 @@ Install metadata for locust lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:57:54Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:21:48Z._
