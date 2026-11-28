@@ -2,98 +2,98 @@ about:
   description: "Write scalable load tests in plain Python 🚗💨"
   license: MIT
   homepage: https://locust.cloud
-  head: 5084aa1
+  head: e390185
   archived: false
   latestVersion: "2.47.0"
   latestRelease: "2.47.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:28:34Z
+  collectedAt: 2026-11-28T07:51:56Z
 timeline:
   created: 2011-02-17
-  lastCommit: 2026-11-24
+  lastCommit: 2026-11-27
   lastVersion: 2026-10-21
   lastRelease: 2026-10-21
   lastPrerelease: 
 popularity:
-  star: 28313
+  star: 28316
   watcher: 413
-  fork: 3277
+  fork: 3279
   release: 204
-  contributor: 352
-  pullRequest: 1693
+  contributor: 356
+  pullRequest: 1696
   issue: 1806
 language:
-  Python: 1251921
+  Python: 1264953
   TypeScript: 252821
   HTML: 3231
   JavaScript: 2304
   Dockerfile: 1870
   Makefile: 1242
-totalBytes: 1513389
+totalBytes: 1526421
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
-    mergedPR: 20
-    openPR: 12
-    closedIssue: 0
-    openIssue: 5
-    commit: 0
+    mergedPR: 28
+    openPR: 7
+    closedIssue: 2
+    openIssue: 3
+    commit: 27
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 2
-    mergedPR: 57
-    openPR: 18
-    closedIssue: 11
-    openIssue: 6
-    commit: 0
+    mergedPR: 63
+    openPR: 13
+    closedIssue: 12
+    openIssue: 4
+    commit: 80
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 4
-    mergedPR: 69
-    openPR: 18
-    closedIssue: 14
-    openIssue: 6
-    commit: 0
+    mergedPR: 77
+    openPR: 13
+    closedIssue: 16
+    openIssue: 4
+    commit: 95
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 14
-    mergedPR: 120
-    openPR: 18
-    closedIssue: 25
-    openIssue: 6
-    commit: 0
+    mergedPR: 128
+    openPR: 13
+    closedIssue: 27
+    openIssue: 4
+    commit: 202
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 20
-    mergedPR: 178
-    openPR: 18
-    closedIssue: 46
-    openIssue: 6
-    commit: 0
+    mergedPR: 183
+    openPR: 13
+    closedIssue: 48
+    openIssue: 4
+    commit: 346
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 73
-    mergedPR: 343
-    openPR: 18
-    closedIssue: 107
-    openIssue: 6
-    commit: 1231
+    mergedPR: 351
+    openPR: 13
+    closedIssue: 109
+    openIssue: 4
+    commit: 1250
 total:
   release: 204
-  mergedPR: 1293
-  openPR: 18
-  closedIssue: 1800
-  openIssue: 6
-  commit: 6711
+  mergedPR: 1301
+  openPR: 13
+  closedIssue: 1802
+  openIssue: 4
+  commit: 6730
 ---
 path: /home/runner/.x-repo/github.com/locustio/locust
-collectedAt: 2026-11-27T08:28:42Z
+collectedAt: 2026-11-28T07:52:01Z
 loc:
   Python:
-    code: 28563
-    comments: 1374
-    blanks: 6237
+    code: 28790
+    comments: 1396
+    blanks: 6264
     files: 153
   Tsx:
     code: 5083
@@ -186,9 +186,9 @@ loc:
     blanks: 3
     files: 1
 total:
-  code: 40949
-  comments: 2465
-  blanks: 9948
+  code: 41176
+  comments: 2487
+  blanks: 9975
   files: 378
 ---
 date: "2026-11-09"
